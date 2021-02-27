@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\0f659ef4cb6515608a9cafa7a2f6c9d9b93ee1c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\BloodDonorApp\app\build\intermediates\pre-dexed\debug\classes_05de36d815f4c4728cc1346d206d959184a642c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.0.0\3a10b25b6820e19102e118711afe6a66c0bae123\butterknife-6.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="F:\BloodDonorApp\app\build\intermediates\pre-dexed\debug\butterknife-6.0.0_275f7b81253c35b6083f95402e3b9a172a51c27d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\65a437f9bb626b58c1ae9e4ae15fff5b389e2559\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\BloodDonorApp\app\build\intermediates\pre-dexed\debug\classes_69add131dd2fde9a7e33fd454a4b3ef6e02a9d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\16a679991c6263921d8b2e6f8c9e67d3a427c15c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\BloodDonorApp\app\build\intermediates\pre-dexed\debug\classes_6f740cc6004b059490eaebf8fabe9e34436fd8ff.jar" />
+    </item>
+
+</items>
